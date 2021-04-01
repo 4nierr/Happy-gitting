@@ -13,6 +13,9 @@ Here is a cute dolphin:
 I love dolphins but I haven't figure out a way to have one at home
 yet...  But we'll get there!
 
+Another dolphin:
+(happy-dolphin.jpg)
+
 
 ## A quick markdown primer:
 
